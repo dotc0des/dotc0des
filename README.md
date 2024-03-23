@@ -1,5 +1,5 @@
-### Hi there, I'm vod3m 👋
+### Hi there, I'm justB1rd 👋
 I like programming :)
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
